@@ -1,5 +1,11 @@
 # Basic-Mathematical-Operations
+
+Here you can find my first assignment of basic mathematical operations 
+Language- Python 
+Editor- Pycharm 
+
 #code
+
 a=float(input("Enter first number: "))
 b=float(input("Enter second number: "))
 #addition
